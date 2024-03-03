@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.quantcast.interview.util","l":"CliParameters"},{"p":"com.quantcast.interview.util","l":"DailyLogs"},{"p":"com.quantcast.interview.util","l":"DailyLogs.Log"},{"p":"com.quantcast.interview","l":"MostActiveCookie"}];updateSearchResults();
